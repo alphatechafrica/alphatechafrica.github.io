@@ -18,7 +18,7 @@ body{
     background : outline;
 }
 #jumbo {
-    background-image : url('/src/img/map-image.png');
+    background-image : url('../res/img/map-image.png');
     background-color: #008080ff;
     background-size: cover;
     color : white;
@@ -129,7 +129,7 @@ h3 {
     background-color: #008080ff;
 }
 #contact-form{
-    background: url('/src/img/cont.jpg');
+    background: url('../res/img/cont.jpg');
     background-attachment: fixed;
     background-blend-mode: screen;
     max-width: fit-content;
