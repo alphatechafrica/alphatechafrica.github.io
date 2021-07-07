@@ -26,12 +26,18 @@ body{
     font-size : 20px;
     background-blend-mode: screen;
 }
-#two .fa {
-    color : #008080ff;
+#two .fa{
+    color : rgb(144, 146, 146);
     font-size : 40px;
     border-radius: 5px;
 }
-h1 .fa {
+
+.fas{
+    color : rgb(144, 146, 146);
+    font-size : 40px;
+    border-radius: 5px;
+}
+h1 .bi {
     font-size : 36px;
     color : #008080ff;
 }
@@ -107,7 +113,7 @@ h3 {
 .fab {
     opacity:75%;
 }
-.fab:hover {
+.bi:hover {
         color : black;
         opacity : 100%;
 }
@@ -135,7 +141,7 @@ h3 {
     opacity: 75%;
     font-weight: 300;
 }
-#cont-addr .fa {
+#cont-addr .fa  {
     color : #008080ff;
     font-size: 20px;
 }
