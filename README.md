@@ -1,3 +1,3 @@
 # alphatechafrica.github.io
 
-website : https://www.alphatechafrica.github.io
+website : alphatechafrica.github.io
